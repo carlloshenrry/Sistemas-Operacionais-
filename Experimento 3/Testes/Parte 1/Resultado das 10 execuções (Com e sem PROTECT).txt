@@ -1,0 +1,181 @@
+-------------------------------------- COM PROTECT --------------------------------------
+
+[rckmath@rck-manj Parte 1]$ ./exp3
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 123456[rckmath@rck-manj Parte 1]$ ./exp3
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghi[rckmath@rck-manj Parte 1]$ ./exp3
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmno[rckmath@rck-manj Parte 1]$ ./exp3
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwx[rckmath@rck-manj Parte 1]$ ./exp3
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrs[rckmath@rck-manj Parte 1]$ ./exp3_noprotect
+
+-------------------------------------- SEM PROTECT --------------------------------------
+
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+AABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTUTUVUVWVWXWXYXYZZY  Zaa bbcacdbdecefdfgeghfhigijhjkkilljmmknonlpomqpnrqsortpsuqtvruwsvxwtyxuzyv zw1 2x13y24z53 647158629730849506
+A7B8C
+A9DB0ECFDGEH
+AFIBGJHCKIDLJMEKNFLOGMPHNQIORJPSKQTLRUMSVNTWOUXPVYQWZ RXaSYbZTc UdaVebWfcgXdhYeiZfj gkahlibmjcnkdolepqmfrngsohtpiuqjvrkwslxtymuznv wo1xp2yq3zr4 s51t627u38v49w50x6y78z
+A9 B01C2D
+EA3FB4GC5HD6IE7JF8KG9LH0MINJOK
+APLBQMRCNSDOTEPUQFVRGWSHXTIYUJZVK WaLXbMcYNdZOe PfaQgbRhcSidTjeUkfVlgWmhXniYojZpk qlarmbsnctodupevqfwrgxshytizuj vk1w2l3xm4yn5zo6 p71q82r93s04t5u6
+vA7Bw8Cx9Dy0EzF G1
+AH2BIJ3CK4DL5EM6FN7GO8HP9IQ0JRKSLT
+AMUBNVCOWDPXEQYFRZGS HTabIUcVJdWKeXLfYMgZNh OiaPjbQkcRldSmeTnfUogVphWqiXrjYskZtul vmawnbxocypdzq re1sf2tg3uh4vi5wj6xk7yl8zm9 n01o2p3q
+A4rB5sC6tD7uE8vF9wG0xHyIzJ
+A KB1LC2MD3NE4OF5PG6QH7RI8STJ9UK0VLWMXN
+AYOBZPC QDaREbSFcTGdUHeVIfWJgXKhYLiZjM kNalObmPcnQdoRepSfqTgrUshVtiWujXvkwYlmxZny oza pb1qc2rd3se4tf5ug6vh7wi8xj9yk0zl m1n
+A2oB3pC4qD5rE6sF7tG8uH9vI0wJKxLy
+AMzBN CO1DP2EQ3FR4GS5HT6IU7JV8KW9LX0MYNZO 
+APaBQbcCRdSDeTEfUFgVGhWHiXIjYJkZlK mLanMboNcpOdqPerQfsRgtSuThvUiwjVxkWylXzmY nZ1o 2pa3qb4rc5sd6te7uf8vg9wh0xiyjzk
+A Bl1Cm2Dn3Eo4Fp5Gq6Hr7Is8Jt9Ku0LvMwNx
+OAyPBzQC RD1SE2TF3UG4VH5WIX6JY7KZ8L 9Ma0NbOcPdQ
+AeRBfSCgTDhUEiVFjWGkXHlYImZJn KoapLqbMrcNsdOtePufQvgRwhSxiTyjUzkV lW1mX2nY3oZ4p 5qa6r7bs8ct9du0evfwgx
+AhyBizC jD1kE2lF3mG4nH5oI6pJ7qK8rL9Ms0NtOuPv
+AQwBRxCSyDTzEU FV1GW2HX3IY4JZ5K 6La7Mb8Nc9Od0PefQgR
+AhSBiTjCUkDVlEWmXFnYGoHZpI qJarKbsLctMdueNvfOwgPxhQyiRzjS kT1lU2mV3nW4oX5pY6qZ7r 8s9at0bucv[rckmath@rck-manj Parte 1]$ ./exp3_noprotect
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+AABBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMNMNONOPOPQPQRQRSRSTTSUUTVVUWWVXXYWYZXZ Y aaZbb ccaddbeecffdggehhfiijgjkhklilmmjnnkoolppmqqnrrsostptuquvrvwswxtxyyuzzv  w112x23y34z45 566177288399405067
+A8B
+AC9BD0CEDFEGF
+AHGBIHJCIKDJLEKMFLNGMOHNPIOQJPRKSQLTRMUSVNTWUOXVPYWQZXR YSaZbT cUadVbecWfdXgeYhfZigj hkailbjmcknldomepnfqogrphsqitrujsvktwluxmvywnzxo y1pz2q 3r14s25t36u47v58w69x07y8z9
+A 0B1C2D
+A3EB4FC5GD6HE7IF8GJ9KH0LIMJNK
+AOLBPMQNCRODSPETQFURGVSHWTIXUJYVKWZLX MYaNZbO cPdaQebRfcSgdTheUifVjgWkhXliYmjZnk olapmbqncrodspetqfurgvshwtixujyvkzwl xm1yn2zo3 p41q52r63s74t85u96v07w8x9y
+A0zB C1D
+AE2BF3CG4DHE5IF6JG7KH8LI9MJ0NKOLPM
+ABQNRCOSDPTEQUFRVGSWTHXUIYVJZWK XLaYMbZNc OdaPebQfcRgdShTeiUfjVgkWhlXimYjnZko lpamqbnrcosdptequfrvgswhtxiuyjvzkw lx1my2nz3o 4p15q26r37s48t59u60v7w8
+A9xB0yCzD E
+A12FB3GC4HD5IE6JFK7GL8HM9IN0JOKPLQ
+MARNBSOCTPDUQEVRFWSGXHTYIUZJV KWaXLbYMcZNd OeaPfbQgcRhdSieTjfUkgVlhWmiXnjYoZkp lqmmrnnsootppuqqvrrwssxttyuuzvv ww1xx2yy3zz4  5162127338449550667788
+A99B0C0DE
+AF
+ABGCBHDCIEDJFEKGFLHGMHINIJOJKPKLQLMRMNSNOTOPUPQVQRWRSXSTYTUZUV VWaWXbXYcYZZd  eaafbgbchcdidejefkfglghmhinijojkpklqlmrmnsnotopupqvqrwrsxstytuzuv wv1xw2yx3zy4 z516 27138249350465768
+A79B80C9D0E
+AFBG
+ACHBDICEJDFKEGLFHMGINHJOIKPJLQMKRNLSMOTNPUOQVPRWQSXRTYSUZTV UWaVXbWYcXZdY eZaf bgachbdicejdfkeglfhmginhjoikpjlqkmrlnsmotnpuoqvprwqsxrtysuztv uvw1wx2xy3yz4z 5 161272383494055667
+A78B89C09D0EF
+AGB
+AHCBIDCJEDKFELGFMHGNIHOJIPKJQLKRMLSNMTONUPVOQWPRXQSRYTSZUT VUaWVbXWcYXdZYe Zfa gbahcbidcjedkfelgfmhgnohiipjjqkkrllsmmtnnuoovpwpqxqryrs[rckmath@rck-manj Parte 1]$ ./exp3_noprotect
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+AAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWXWXYXYZYZ Z aa bbaccbddceedffgefghghihijijkjklklmlmnmnmnonopopqpqrqrsrststutuvuvvwwwxxyxyzyz z 1 12123324435546657786897908090
+A
+ABBCC
+ADDBEECFFDGGEHHFIIGJJHKKILLJMMKNNLOOMPPQNQRORSPSTQTUURVVSWWTXXUYYVZZW  XaaYbbcZcd deaebffcggdhhieijfjkgklhlmimnjnookpplqqmrrnssottupuvqvwrwxsxytyzuz v 1w12x23y34z54 651762879380495067
+A8B
+A9CB0DCEDFEG
+AFHGBIHCJIDKJELKFMLGNMHONIPOJQPKRQLSRMTSNUTOVUPWVQXWRYXSZYT ZUa VbaWcbXdcYedfZeg fahgbihcjidkjelkfmlgnmhonipojqpkrqslrtmsuntvouwpvxqwyrxszyt zu1 v21w32x43y546z57 6817928039405
+A6B7
+AC8B9CD0DEEFFG
+AHGBIHCJIDKJELKFMLGNMOHNPIOQJPRKQSLRTSMUTNVUOPWVQXWRYXSZYT ZUa VbaWcbXdceYdfZeg fhagibhjickjdlkemlfgnmhonipojqpkrqlsrmtsnutovuwpvxqwyrxzsy tz1u 2v13w24x3y54z65 76187298093045
+A6B
+A7CB8DC9ED0FEGFHG
+AIHBJICDKJELKFMLGNMHONPIOQJPRKQSLRTMSUNTVOUWPVXWQYXRZYS ZTa UVbaWcbXdcYedfZeg fhagibhjcikdjlekmflngmohnpioqjprkqslrmtsnutvouwpvxqwyrxzsy tz1u 2v13w2453x64y75z86 97108293405
+A6B7C
+A8DBE9CF0DGEHFIG
+AJHBKICLJDMKENLFOMGPNHQOIJRPKSQLTRMUSNVTWOUXPVYQWZRX YSaZTb UcaVdbWecXfdYgeZhf igajhbkicljdmkenlfomgpnhqoirpjsqktrulsvmtwnuxovypwzxqr ys1zt2 u31v42w536x47y58z69 70189203
+A4B5C
+A6DB7EC8FD9GE0HFIGJH
+AKIBLJCMKDNLEOMPFNQGORHPSIQTJRUKSVLTWMUXNVYOWZPX YQaZRb ScaTdbUecVfdWgeXhfYigZjh kialjbmkcndloempfnqgorhpstqiurjvskwtlxumyvnzwo xp1yq2zr 3s14t25u36v47w58x96y07z8 91
+A02B3C4D
+A5EB6FC7GD8HE9IFJ0GKHLI
+AMJBNKCOLDPMEQNFROGSPHTQIURJVSKWTLXUMYVNZWO XPaYbQZcR dSaeTbfUcgVdhWeiXfjYgkhZli mjankbolcpmdqnerofspghtqiurjvskwtlxumyvznw ox1py2zq3[rckmath@rck-manj Parte 1]$ ./exp3_noprotect
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+AABBCCCDDDEEEFFFGGHGHIIHJJIKKJLKLMLMNMNONOPOPQPRQQSRRTSSUTTVUUWVVXWWYXXZYY ZZa  baacbbcdcdedefefgfghghihijijkjklklmlmnmnonopopqpqrqrssrttsuutvvuwwvxxwyyxzzy  z11 2213324435546657768879980090
+A
+ABB
+ACCDBDECEDDFEGEFHFGIGHJHIIKJJLKKMLLNMONOPMPQNQORRSPSQTTRUUSVVTWWUXXVYYWZZX  YaaZbb ccaddbeecffdggehhfiigjjhkkilljmmknnloomppnqqrosrtpusvqwtxryuzs v1t2w3u4x5v6y7w8z9x0 y1z
+2A 3B14C25D36E47F58G69H70I8J9K0
+LAMBNC
+AODBPECQFDRGESHFTIGUJHVKIWLJXMKYNLZOM PNaQObRPcSQdTReUSfVTgWUhXViYWjZXk YlaZmb ncaodbpecqfdrgeshftigujhvkiwljxmkynlzom pn1qo2rp3sq4tr5us6vwtwuuxvyvwzwx xy1yz2z 3 14125236347458569670788990
+A0BC
+AD
+ABEBCFCDGDEHEFIFGJGHKHILIJMJKNKLOLMPMNQNOROPSPQTQRURSVSTWTUXUVYVWZWX XYaYZbZ c adabebcfcdgdehefifgjghkhilijmjknklolmpmnqnoropspqtqrursvstwtuxuvyvwzwx xy1yz2z 3 14125236347458569670788990
+A0BC
+AD
+ABEBCFCDGDEHEFIFGJGHKHILIJMJKNKLOLMPMNQNOROPSPQTQRURSVSTWTUXUVYVWZWX XYaYZbZ c adabebcfcdgdehefifggjhhkiiljjmkknllommpnnqoorppsqqtrrussvttwuuxvvywwzxx yy1zz2  3114225336447558669770889900
+ABC
+
+AADBBECCFDDGEEHFFIGJGHKHILIJMJKNKLOLMPMNQNOROPSPQTQRURSVSTWTUXUVYVWZXW YXabZYc Zda ebafcbgdchedifejgfkhglihmjinkjolkpmlqnmronspotqpurqvsrwtxsuytvzuw vx1wy2xz3y 4z15 26137428539640758697
+A08B9C0D
+AEBFC
+GADHBEICFJDGKEHLFIMGJNHKOILPJMQKNRLOSMPTNQUROVSPWTXQUYRVZSW TaXUbYVcZWd XeaYfbZgc hdaiebjfckgdlhemifnjgokhpliqmjrnksoltpumqvnrwosxptyuqzvr ws1xt2yu3zv4 w51x62y73z84 9510627384
+A95B06CD7E8
+AF9BG0CHDIEJ
+AFKBGLCHMDINOJEPKFQLGRMHSNITOJUPKVQLWRMXSNYTOZUP VQaWRbXScYTdZUe fVagWbhXci[rckmath@rck-manj Parte 1]$ ./exp3_noprotect
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+AABABCBCDCDEDEFEFGFGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ   aaabbbcccdddefeegffhggihhjiikjjlkkmllnmmonnpooqpprqqsrrtssuttvuuwvvxwwyxxzyy zz1  21132243354465576687798809900
+AB
+
+AACBBDCCEDDFEEGFFHGGIHHJIIJKJKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ   aaabbbcccdddeeefffggghhhiiijjjkkklllmmmnnnooopppqqqrrrssstttuuuvvvwwwxxxyyyzzz   111222333444556567677888999000
+A
+A
+ABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ   aaabbbcccdddeeefffggghhhiiijjjkkklllmmmnnnooopppqqqrrrssstttuuuvvvwwwxxxyzyy zz1  21132243354465576687798809900
+A
+BA
+ACBBDCCEDDFEEGFFHGGIHHJIIKJJLKKMLLNMMONNPOOQPPRQSQRTRSUSTVTUWVUXWVYXWZYX ZYa Zba cbadcbedcfedgfehgfihgjihkjilkjmlknmlonmponqporqpsrqtrsutsuvtvwuwxvxywzyx zy1 z21 321432543654765876987098090
+AB
+ACB
+ADCBEDCFEDGFEHGFIHGJIHKJILKJMLKNMLONMPONQPORQPSRQTSRUTSVUTWVUXWVYXWZY XZaY bZac bdacebdfcegdfhegifhjgikhjlkimljmnknolopmqpnrqosrptsqutrvuswvtxwuyxvzyw zx1 y21z32 431542653764875986097089
+A0B
+ACBDC
+AEDBFECGFDHGEIHFJIGKJHLKIMLNJMOKNPLOQMPRNQSORTSPUTQVURWVSXWTYXUZYV ZWa XbaYcbZdc edafgbehcfidgjehkfilgjmhknilojmpknqlormpsnqtorupsvqtwruxsvytwzux vy1wz2x 3y41z52 6317428359460576879
+A80B9C0D
+AEBF
+ACGBDHCEIDFJEGKFHLGMIHNJIOKJPLKQMLRNMSONTPOUQPVRQWSRXTSYUTZVU WVaXWbYXcZYd Zea fbgachbdicejdfkeglfhmginhojipkjqlkrmlsnmtonupovqpwrqxsrytszut vu1wv2xw34yx5zy6 z71 8219320435465
+A76B87C98D09E0FG
+AHB
+AICJBDKCELDFMEGNFHOGIPHJQIKRJLSKMTLNOMUPNVQWORXPSYQTZRU SaVTbWUcXVdYWeZXf YgaZhb icajdbkeclfdmgenhfoigpjhqkirljsmktnluomv[rckmath@rck-manj Parte 1]$ 
