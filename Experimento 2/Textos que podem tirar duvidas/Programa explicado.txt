@@ -1,0 +1,41 @@
+-O comando ipcs pode ser usado para
+listar os recursos IPC alocados. Segundo, o comando ipcrm pode ser usado para remover
+os recursos IPC alocados. 
+
+-Use msgget() para obter o número ID correspondente a uma chave única, criando
+a fila de mensagens se necessário.
+
+-Use msgsnd() e msgrcv(), respectivamente, para transferir dados para e retirar
+dados da fila de mensagens identificada pelo número ID previamente obtido.
+
+-Use msgctl() para remover a fila de mensagens do sistema. 
+
+Programa Exemplo
+
+O programa exemplo para recursos compartilhados procura estabelecer quanto demora
+para se transferir uma mensagem através de uma fila de mensagens. É um programa
+simples, mas apresenta algumas técnicas interessantes que podem ser usadas em uma
+variedade de aplicações diferentes. Aqui está o algoritmo básico para o programa:
+
+• O pai cria a fila de mensagens.
+• O pai cria dois filhos.
+• O primeiro filho vai:
+
+? Receber uma mensagem da fila que contém um valor de tempo.
+? Chamar gettimeofday() para adquirir a hora atual.
+? Usando o tempo que se encontra na mensagem e aquele que acabou de
+adquirir, calcular a diferença entre os mesmos.
+
+? Repetir os passos acima um número determinado de vezes.
+
+? Exibir os resultados.
+
+• O segundo filho vai:
+
+? Chamar gettimeofday () para adquirir a hora atual.
+? Colocar o tempo obtido em uma mensagem.
+? Colocar a mensagem na fila.
+? Dormir para permitir que o irmão possa ser executado.
+? Repetir os passos acima um número determinado de vezes.
+
+• O pai espera os filhos terminarem.

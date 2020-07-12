@@ -1,0 +1,1500 @@
+-------------------------------------- COM PROTECT --------------------------------------
+
+[rckmath@rck-manj Parte 2]$ ./exp3-pt2
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+Filho 8 comecou ...
+
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: E 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: F  G  H 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: I  J  K  L 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: M 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: N  O  P  Q 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: R 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: S  T 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: U  V  W  X 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: Y  Z    
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: a  b  c  d  e 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: f  g  h  i 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: j  k  l  m  n 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: o  p 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: q 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: r  s 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: t  u  v  w  x 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: y  z     1  2 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: 3  4  5 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: 6 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: 7  8  9 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: 0     
+#################################################wxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: A  B  C  D  E 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: F  G  H  I 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: J  K  L  M 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: N 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: O  P  Q 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: R  S  T  U 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: V  W 
+ABCDEFGHIJKLMNOPQRSTUVW########################################## -> Consumidor printou
+
+
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: X  Y  Z    
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: a  b  c  d 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: e  f  g  h  i 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: j  k  l  m  n 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: o 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: p  q 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: r  s  t  u 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: v  w  x  y 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: z 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres:    1  2  3  4 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: 5 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: 6  7  8  9  0     
+#########################################opqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: E  F  G  H  I 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: J  K 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: L  M  N  O 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: P  Q  R  S  T 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: U  V 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: W  X  Y  Z    
+ABCDEFGHIJKLMNOPQRSTUVWXYZ ###################################### -> Consumidor printou
+
+
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: a 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: b  c  d 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: e 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: f  g  h  i  j 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: k  l  m  n  o 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: p  q  r  s 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: t  u  v  w  x 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: y 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: z     1  2  3 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: 4 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: 5  6  7 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: 8  9  0     
+#############################cdefghijklmnopqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: A  B  C 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: D  E 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: F  G  H  I  J 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: K 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: L  M  N  O  P 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: Q  R  S  T 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: U  V 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: W  X  Y 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: Z     a  b  c 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: d  e  f  g  h 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: i  j  k  l 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijkl########################## -> Consumidor printou
+
+
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: m  n  o 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: p  q  r  s  t 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: u 
+Sou o filho Nº 2, PID 38624 e produzi os seguintes caracteres: v  w  x 
+Sou o filho Nº 3, PID 38625 e produzi os seguintes caracteres: y  z     1 
+Sou o filho Nº 4, PID 38626 e produzi os seguintes caracteres: 2 
+Sou o filho Nº 1, PID 38623 e produzi os seguintes caracteres: 3  4  5 [rckmath@rck-manj Parte 2]$ ./exp3-pt2
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+Filho 8 comecou ...
+
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: E 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: F  G  H 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: I  J  K 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: L  M  N  O  P 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: Q  R 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: S  T  U 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: V  W  X  Y 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: Z     a  b 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: c 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: d  e 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: f  g  h 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: i 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: j  k  l  m  n 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: o  p  q 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: r  s  t 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: u  v  w  x  y 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: z 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres:    1  2 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: 3  4  5 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: 6  7  8  9 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: 0     
+##############################################################90 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: E  F  G 
+ABCDEFG########################################################## -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: H  I 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: J  K  L  M 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: N  O 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: P  Q  R  S 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: T  U  V  W  X 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: Y 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: Z     a  b  c 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: d  e 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: f 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: g  h  i  j  k 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: l  m 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: n  o 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: p  q  r  s  t 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: u  v  w  x  y 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: z     1  2 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: 3  4 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: 5  6 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: 7  8  9  0     
+#######################################################234567890 -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: E  F  G 
+ABCDEFG########################################################## -> Consumidor printou
+
+
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: H  I  J  K 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: L  M  N 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: O 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: P  Q 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: R  S  T  U  V 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: W  X  Y  Z 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres:    a 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: b  c  d 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: e 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: f  g 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: h 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: i  j  k  l  m 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: n  o 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: p  q  r  s  t 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: u  v  w  x  y 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: z     1 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: 2  3  4 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: 5  6  7  8  9 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: 0     
+#######################################################234567890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: A 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: B  C  D 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: E  F  G  H  I 
+ABCDEFGHI######################################################## -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: J  K  L 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: M 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres: N  O  P  Q 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: R 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: S  T  U  V  W 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: X  Y  Z 
+Sou o filho Nº 3, PID 38642 e produzi os seguintes caracteres:    a  b  c  d 
+Sou o filho Nº 4, PID 38643 e produzi os seguintes caracteres: e  f 
+Sou o filho Nº 1, PID 38640 e produzi os seguintes caracteres: g  h  i  j  k 
+Sou o filho Nº 2, PID 38641 e produzi os seguintes caracteres: l [rckmath@rck-manj Parte 2]$ ./exp3-pt2
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+Filho 8 comecou ...
+
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: E  F  G  H  I 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: J  K 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: L  M 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: N 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: O  P  Q  R 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: S  T  U 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: V  W 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: X  Y  Z 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres:   
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: a  b  c  d  e 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: f  g  h  i 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: j 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: k  l  m  n  o 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: p  q  r 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: s  t  u  v 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: w  x  y  z 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres:    1  2  3  4 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: 5  6  7  8  9 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: 0     
+############################################rstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: A  B  C 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: D  E  F  G  H 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: I  J 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: K  L  M 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: N 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: O  P 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: Q  R  S  T  U 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: V  W  X  Y  Z 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ####################################### -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres:    a  b  c 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: d 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: e  f  g 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: h  i  j  k  l 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: m  n  o 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: p  q  r 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: s  t  u 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: v  w  x  y  z 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres:    1  2 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: 3  4  5 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: 6  7 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: 8  9  0     
+###################################ijklmnopqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: A  B  C  D  E 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: F  G  H 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: I  J  K  L 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: M  N  O 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: P  Q  R  S  T 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: U  V  W  X  Y 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: Z     a  b  c 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: d  e 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcde################################# -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: f  g  h  i  j 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: k  l 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: m  n  o  p  q 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: r  s 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: t  u 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: v  w  x  y  z 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres:    1 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: 2  3  4  5  6 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: 7 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: 8  9  0     
+###########################abcdefghijklmnopqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: A  B  C  D  E 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: F  G  H  I  J 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: K 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: L  M  N  O 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: P  Q 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: R  S  T  U 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: V 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: W  X  Y 
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: Z     a  b  c 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: d 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: e  f  g 
+Sou o filho Nº 1, PID 38650 e produzi os seguintes caracteres: h  i  j  k  l 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijkl########################## -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38651 e produzi os seguintes caracteres: m  n 
+Sou o filho Nº 3, PID 38652 e produzi os seguintes caracteres: o  p  q  r 
+Sou o filho Nº 4, PID 38653 e produzi os seguintes caracteres: s  t  u [rckmath@rck-manj Parte 2]$ ./exp3-pt2
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: A Filho 8 comecou ...
+ B  C 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: D 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: E  F  G 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: H  I  J  K 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: L  M  N  O 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: P 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: R  S  T 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: U  V  W  X 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: Y  Z     a 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: b  c  d 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: e  f  g 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: h  i  j  k 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: l 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: m  n  o 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: p  q  r 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: s  t  u  v 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: w  x  y 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: z     1 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: 2  3  4  5 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: 6 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: 7  8  9 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: 0     
+###########################################################67890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: A  B 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: C  D  E  F 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: G  H  I  J 
+ABCDEFGHIJ####################################################### -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: K  L 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: M  N  O  P 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: Q  R  S  T  U 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: V  W  X  Y  Z 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres:   
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: a 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: b  c  d 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: e  f  g  h  i 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: j  k  l  m 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: n  o  p  q  r 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: s  t  u  v 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: w 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: x  y  z 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres:    1  2  3  4 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: 5  6  7  8  9 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: 0     
+###########################################################67890 -> Produtor printou
+
+
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: A  B  C  D 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: E 
+ABCDE############################################################ -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: F  G 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: H  I  J 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: K  L  M  N 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: O  P 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: R  S  T  U  V 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: W  X  Y  Z    
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: a  b  c  d  e 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: f  g  h  i 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: j 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: k  l  m 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: n  o  p 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: q  r  s  t 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: u 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: v 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: w  x 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: y  z     1  2 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: 3  4 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: 5  6  7  8 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: 0     
+###########################################################67890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: A 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: B  C 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: D  E 
+ABCDE############################################################ -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: F  G  H 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: I  J  K  L  M 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: N  O  P 
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: Q  R  S 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: T  U  V  W  X 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: Y  Z 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres:   
+Sou o filho Nº 2, PID 38660 e produzi os seguintes caracteres: a  b 
+Sou o filho Nº 1, PID 38659 e produzi os seguintes caracteres: c  d 
+Sou o filho Nº 4, PID 38662 e produzi os seguintes caracteres: e  f  g  h  i 
+Sou o filho Nº 3, PID 38661 e produzi os seguintes caracteres: j  k [rckmath@rck-manj Parte 2]$ ./exp3-pt2
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+Filho 8 comecou ...
+
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: A  B 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: C  D  E  F 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: G  H  I  J  K 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: L  M 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: N  O 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: P  Q 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: R  S  T  U 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: V  W  X 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: Y  Z 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres:    a 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: b  c 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: d  e 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: f 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: g  h 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: i  j 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: k 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: l  m  n 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: o  p  q  r 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: s  t  u 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: v  w  x  y  z 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres:    1  2  3  4 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: 5  6  7  8 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: 0     
+##################################################xyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: A 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: B  C 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: D 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: E  F 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: G  H  I  J 
+ABCDEFGHIJ####################################################### -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: K  L  M  N 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: O  P 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: Q  R  S  T  U 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: V 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: W  X  Y  Z    
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: a  b  c  d  e 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: f  g  h 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: i 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: j  k 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: l  m  n 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: o  p 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: q  r  s  t  u 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: v  w  x 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: y  z     1  2 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: 3  4  5  6 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: 7 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: 8  9 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: 0     
+##########################################################567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: A  B  C  D  E 
+ABCDE############################################################ -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: F  G  H  I 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: J  K 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: L  M  N 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: O  P 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: Q  R  S  T  U 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: V  W  X  Y 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: Z     a 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: b  c 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: d  e  f  g 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: h  i 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: j  k 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: l 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: m  n  o  p 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: q  r  s 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: t  u 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: v  w  x  y 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: z    
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: 1  2  3 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: 4  5  6  7  8 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: 0     
+#################################################wxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: A  B 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: C  D  E  F 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: G 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: H 
+ABCDEFGH######################################################### -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: I  J  K  L 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: M  N  O  P 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 2, PID 38669 e produzi os seguintes caracteres: R  S  T  U 
+Sou o filho Nº 1, PID 38668 e produzi os seguintes caracteres: V 
+Sou o filho Nº 3, PID 38670 e produzi os seguintes caracteres: W  X 
+Sou o filho Nº 4, PID 38671 e produzi os seguintes caracteres: Y  Z    [rckmath@rck-manj Parte 2]$
+
+-------------------------------------- SEM PROTECT --------------------------------------
+
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: T  O 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: P  O  U  Q 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: P  P  V  R  Q  Q  W  S  X 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: R  R 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: Y  T  S  Z  T 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: S 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: U 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: T     U  U  a 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: V 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: b  V 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: V  W 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: c  W  W  X  d  X  X 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: Y  e 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: Y 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: Y  Z  Z 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: f     Z  a  b 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: g    
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:   
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: c  h  a  a 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: d  i  b 
+ABCDEFGHIJKLMNOP b  c  e QRSTU c VWXYZ abcdefgh d i########################
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:# e #### -> Consumidor printou
+
+ f 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: g  j 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: d 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: f  h 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: e 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: g 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: k  i  l  f  h  j 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: i  j 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: g  m  k  n  k  o  h  l  p 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: l 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: m  q  i  j 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: m 
+ABC n DE r FGHIJ
+KLM
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:A
+N k  n BAOCBPDCQEFG
+DRHAES
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:IBFT s JCGUK o DHV l LEIWMFJXKNGYLOHZMPNI QOJPaRK t QbSLRc
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:TMSd p UN m TeVOUfWPVgXQWhYRXiZSY u j TZkaU  n  q 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres:la o bbmVccnWddoXeepY v ffqZgg
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:r h r stai
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:ub p j o vck#dlh#emi#fn s jop w k#qlrg##sh q i#t p uj#vk#mwl##nm## t on
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:##po
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: x # q #p r #q#q#r#r#s#s u  -> Consumidor printou
+
+ s t#tu#uvv# y 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres:w r w# t xx#yy######## s  u 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: v # -> Consumidor printou
+
+#
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:#
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:# z # t ############## v ## -> Consumidor printou
+
+ -> Consumidor printou
+
+ w  w 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: x    
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: u  x  y  1  v 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: w  y  x 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: z  2     z  1  y  3  2 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: 3 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:    z 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: 4  4  1 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:    5  5 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: 2  1 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: 6 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: 6  3  2  7  7  4 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: 3  8  8  5  4  9  9 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: 6 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: 5  0  0  7    6    8    7    8 
+ 9 ##
+#####################################
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:## 9 ##
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:## 0 ###Z# #aZb cadbecfdgehfigjhk  il 0 jmknlompnqorpsqtrusvtwuxvywzx y1z2 31425  3647  58697089 -> Produtor printou
+
+0
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: -> Produtor printou
+
+ 0 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: 0 
+  ##############  #####  ###########
+##e#f#g#h#i#j#  k#l#m#n#o#  p#q#r#s#t#u#v#w#x#y#z# #1#2#3#
+4##5##6##7##8##9##0
+#### -> Produtor printou
+
+#i##j
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:#k A #l####m##n###o###p###q##r###s##t## B u##v##w##x##y##z## ##1##2##3#4##5##6#7## C 8##9##0l#m#n -> Produtor printou
+
+#o#p
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:#q A #r#s#t#u#vmwnxoypzq r
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:1 D s2t3u4v5w6x7y8z9 0
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres:12 -> Produtor printou
+
+ B 3 E 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:4 B 56
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:7 F 890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: F  C  C  G  G  D  D 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: E  H  H 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: E 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: I  F  I  F 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: J  G 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: J 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: G  K  H  L  K  H  I  M  L  I  J 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: N  M  J  K  O 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: N  K  L  O  P 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: L  M  P 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: Q  Q 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: M 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: N  R  N 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: R  O 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: P  S 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: O  Q  S  R  T  S 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: T  P  U  U  T 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: Q  V 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: V  U  R 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: V  W  W  W  S  X 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: X  X 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: T  Y 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: Y  Y  U 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: Z  Z 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: Z 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: V    
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres:       W  a  a  a  X 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: b  b  b  Y  c 
+Sou o filho Nº 2, PID 38783 e produzi os seguintes caracteres: c  c  d 
+Sou o filho Nº 4, PID 38785 e produzi os seguintes caracteres: Z 
+Sou o filho Nº 1, PID 38782 e produzi os seguintes caracteres: d 
+Sou o filho Nº 3, PID 38784 e produzi os seguintes caracteres: d  e     e  e  f  f  a [rckmath@rck-manj Parte 2]$ ./exp3-pt2_noprotect
+Filho 1 comecou ...
+Filho 2 comecou ...
+Filho 3 comecou ...
+Filho 4 comecou ...
+Filho 5 comecou ...
+Filho 6 comecou ...
+Filho 7 comecou ...
+Filho 8 comecou ...
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: A  B 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: A  C 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: B  D 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: B  B  C 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: E  C  C 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: D  F  D  D  G 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: E  H  E 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: F  I  E 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: F  J  G  F  G 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: K  H  G  H  L  I  H  I 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: J  K  M 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: I  J  L  N 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: J 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: K  M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: O  K  L  N  P 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: L  M 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: O  Q  M 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: P  N 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: R  N  Q  O  S  O 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: P 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R  T  P 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: S  Q 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Q  T  R  R  V  S  S 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: U  T  W  T  V  U 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: X 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: W  U  V  Y  X  W  V  X  Z  Y  W 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:   
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Y  X 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: Z     a  Y  Z  a 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: b 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Z    
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: b  a 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: c 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: b     d 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: c  c  a 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: e  d  e 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: b  d 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: f  f 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: e  c 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: g  g  f  d  h  h  g  i 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: e 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: i 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: j  h  f 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: j 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: i  g  k  l  j  h  l  m  k  i 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: m 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: n 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: l 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: j  n  o  m  k 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: o  p  l  n 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: p 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: q  m 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: o  q  r  n 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: p  o  r  s  q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: p  s 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: q  r  t 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: t  r  u  s  u  t  s  v 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: u  v 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: t  v 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: w  u 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: w  x 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: v  w 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: w  x  x  y  x  z  y  y  z 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: y 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: z  z 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:    1     1  2  1  2 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 1 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 3  2 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 3  4 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 3 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 2  5  3  4 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 6  4 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 5 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 7  4  8  5  6  5 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 7  6 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 6  0  8  7  7    9  8  8    0  9  9   
+#### 0 #   0 ####
+############    ########################  
+####
+c  ###d###e###
+f####g####h####i####j####k####l####m#c##n#d####e####f####g####h####i####j#k#####l####m####n#################################c####d###ce##6df##7eg##8fh#c#gi#d#hj#e#ik#f -> Produtor printou
+
+jl#g  km#hln##i#m6j#n7k##8l  ###m###n####### -> Produtor printou
+
+##
+#
+#############################################6####7####8#####6####7###8### -> Consumidor printou
+
+##6###7## -> Consumidor printou
+
+8########## -> Consumidor printou
+
+#####
+
+################c###dc##ed##fe##gf##hg##ih##ji##kj##lk#l#mm##nn########################################################cc##d#d#e#e##ff6#gg76hh87ii#8jj##kk#ll -> Produtor printou
+
+mm -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:nn A  A ################## B # B ##############
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:# C # C 667788#### -> Produtor printou
+
+ -> Consumidor printou
+
+
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: C  D 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+AB D CD### E  D #### E # F ####### E ###
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:# F # G #####c
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:d F efg
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:h H  G ijklmn G ########
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:# I # H ### H #####678##
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: I  J  -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: J  I  K  J  K  J  L 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: K  L  K 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: M 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: L 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: L 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: N  N  M  M  O 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: O 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: N 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: N 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: P  P  O  O  Q  Q  P  R  P  R  S  Q  T  Q 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: S  R 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: U  R  T  V  S 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: S  W  U  X  T 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: T  Y  V 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Z  U  U    
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: W  a 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: V 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: V  b  X  W  c  W  Y  d  X  X  e  Z  f  Y  Y 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: g  h 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Z  Z  i  a    
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:    j  b  a 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: a  b 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k  c 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: c  b  l  d 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: d 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: c  e  m  e 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: n  d 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: f  o  e  f 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: p  f 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: g  g  g 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: h  q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: h  r 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: h  i  s  t  i  i  j  u 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: v 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: j  j 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k  w  x 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k  y  k  l  l  z 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: l 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: m  m     m  n 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: n 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 1  n  o  o  2  o  p 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: p 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 3 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: p  q  4  q  q  5 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: r  r  r  6 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: s  s  t 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: s  7 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: t 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: u  8 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: t  u  v  9  u  w  v  x 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 0  v 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: y  w  z   
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:    w 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: x   
+A###
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: y # x F 1 GHIJKLMNOPQRSTUVWXYZ abcdefghijkl z mn 2 o y pqrstuvwxyz##2###67
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: z 8 3    90 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 3 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 1  4     2  4  3 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 5 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 1  4  5  5  6 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 2 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 6  6 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 3  7 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 4  7 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 5  7  8  8  6  7  8 
+
+AA 9 ########
+FFGH 9 GI
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:HJ 8 IKJLK
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:AML 9 #NM#ON#PO#QP 0 FRQ
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:G 0 SR
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:HTS 0 UT 9 VUWIXVJYWKZXL YMaZNb Oc  aPdQ  beRcfS  dgT 0 ehUfiVgjWhkXilYjmZkn   ab  locm  noppq  qrrdssettfuugvvhww
+ixx#jy  y#kzz#
+lm n1o 2p#31#q#42
+3r4#s5##t6###5u7G
+##v8H###w9I###x0#J -> Consumidor printou
+
+G#KGH#LI#HMJ#INKHJOLIKPMJLKQNMLRONMSPONTQPOURQPVSRQWTSRXUTSYVUTZWVU XWVaYXWbZYXc ZYda Zeba fcbacgdbdcheediffejggfkhhgliihjmjiknkjlolkmpmlnqnmoronpspoqtqprurqsvsrtwtsuxutvuyvwvzwxw xyx1yzy2zz 3  1411225233634474558566967780789890 -> Produtor printou
+
+90
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:0 -> Produtor printou
+
+ A  -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: A 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: A  A 6y7z8 91023 -> Consumidor printou
+
+45678
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:9 B 0 -> Consumidor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: B  B  B  C  C  C 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: C  D  D  D 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: D  E 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: F 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: E  E  E  F  G  F  F 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: G  H 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: H 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: G  I 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: G  I  J  H  H  I 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: J  K  I  J  K 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: L  J 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: L  K  M  M  N  K  O 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: L  N 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: P 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: L  M 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: O 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: S  M  N  P 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: N  T  O 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U  O  P  R  V  P 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Q  S  W  Q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: R  T  R 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: X  S 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: U  S  Y  T 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: U  V 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: Z  T 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: V     W 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: W 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: a  b  X  V  X 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: c 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Y 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: W 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Y  d  Z  X  Z  e        Y  f  a  a  Z 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: g  h  b    
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: b  i  c 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: c  a 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: d 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: e  d  j 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: e  b  f 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: f  c  k 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: g 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: g 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: d  l  h  h  e  m  i  i  f 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: n  j  j 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: g  k  o  l  m  k  h  p 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: n  i  q  l 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: o  j  m  r  p  n  k  s 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: q 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: o 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: l  t  r  p  m  u  s  q  v  n  t  r  w  o  u  s  x  p 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: t  v 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: q  y 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: u  w 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: r 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: z  v  x  s    
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: w  y 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: t 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 1 
+ABCDEFGHI x J z KLMN u OPQ 2 RSTUVWXYZ 
+aAbBcCdDeEfFgG y hH v    iIjJkKlLmMnNoOpPqQrRsS 1 tTuUvVwWxXyYzZ z   1a2
+ w  2 b#Ac#Bd#eC
+#fDA#gEB#hFC#iGjD#HkE   #IlF -> Consumidor printou
+
+G 3  x HIJJKmLKM
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:nLN 3 oMOpPNqQOrRPSsQT
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:tRU 1 V
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:uSW y vTXwUYxVZy
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:W  4 z 2 Xa Yb1Zc2 d3ae4bf#gc#hd
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#ie z #jf#kg#lh# 5 mi 3  -> Consumidor printou
+
+njok 4 plqmrsntoupvwqxrys   zt 1u2v3 6 w4x5y6z# #1#2 5 #3#4 -> Consumidor printou
+
+56##### -> Consumidor printou
+
+ 1 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 7  6 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 4 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 2  7 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 8 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 5  3  8  9  6 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 4 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 0  7  5  0   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 8  6      9 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 7  0   
+################  # 8 #STUVWXYZ 
+a#b#c#d#e#f#g#h#i#j#k#l#m#  n#o#
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:p# 9 q#r#s#t#uUvVwWxXyYzZ  1a2b3c4d5e6f7
+g8#h9#i0
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#j 0 #k -> Produtor printou
+
+#l
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:#m 0 #n#o#p#q#r#s#t#u#v#w#x#y#z# #1#2#  3  X4Y5Z6 78a9b0c  d -> Produtor printou
+
+ef
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:g 0 hijklmnopqrst  uv
+w#x#y##z# #1#2#3#4  #5#6#7#8#9#0## -> Produtor printou
+
+##
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:# A ##
+##A#### #a#bc#d#e#  f#g#h#i#j#kl#m#n#op#q#r#s B #t#u#v#w#x#y#z# a
+1b
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:A C B2C#c##d#e#f#g#h#i#j#k#l#m#n#o#p#q# D r#s#t#u#v#w#x#y#z# #1d2e3f4g5h6i7j8k9 E l0mn -> Produtor printou
+
+o
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:p A qrs3t4u5v6w7x8y9z0 1 -> Produtor printou
+
+23 F 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:4 A 567890 B  -> Produtor printou
+
+ B 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: A 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: G  C 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: C  B 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: C  H  D  D  E  I 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: D  E  F  E  J  F 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: F  G  G 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: K  H  G 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: H  I  L  J 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: H  K 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: I  M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: I  N  L 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: J  M  J 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: N  O  K 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: P  K  O  L  Q  L  P 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: M  R  M  Q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: N  N 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: S 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R  O  O  T  P  S 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Q 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: P  R  U  T  S  T 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: Q  V  U 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: W  R 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: U  V  X 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: S 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: V  W  Y 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: X  W  T  Z  Y 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: X 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:    Z  Y  V  a 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:    Z  W  b  a 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: X     c  b  Y  a 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: c  d 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: b 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: Z  d  e  c     d  f  e 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: e  a 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: f  g  g 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: f  b 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: h  i 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: h  g 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: c  j  i  h  d 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: k  j 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: i  e 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: l  k 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: j  f  m 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: l  k 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: g 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: n  m  l  h  o  n 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: m  i  p  o  n  j  q 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: p  q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: o 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: k  r  r  p  l 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: s  s  q  m  r 
+ABCDEF
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:G t HIJK
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:L t  s MNOP n  t QRSTUVWXY u Z abcdefg u hijklmn u o
+pAqBrC
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:s v D o tEuFvG#
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:H v #I#J#K#L#M
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:#
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:N w # v O#P#Q#R#S#T#U#V#W -> Consumidor printou
+
+X p YZ abcd x e w 
+fAgBhCiDjEkFlGmHnIoJ w  q pKq r L
+rMAsNOBtPCu y  x QDRvESwFTxGUyHV#IWJXY x  z #KZ
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+#L  s A#MaB#N t bC#O y cD#PdeE#QfF y #RgG#ShH   #TiI#UjJ#VkK -> Consumidor printou
+
+WlLXmMYn u NZoO z  pPa z qQbrRcsSdtTeuUfvVgwW
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:hxX 1 iyYjzZk  l1am
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#bn
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: v #co 2 #dp#eq
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:#fr   #gs#
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:ht#   iu#jv#kw -> Consumidor printou
+
+lxmynzo w  p1 3 q2r3 1 s# 1 t#u#v#w#x#y#z#  -> Consumidor printou
+
+123######## -> Consumidor printou
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: x 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 2  4 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 2  y  3  5  3  z    
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 4  1  6  4  5  2  7  5  6 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 3  8  6 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 4  7 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 9  7  5 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 8 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 0  8  6  9  9   
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 7 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 0   
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 0  8   
+####  ##  ############# 9 ######Z abcdef
+  #g#h#i#j#k#l#m#n#o#p#q#r#s# 0 t#u#v#w#x#y#z# #1#2#
+3##4##5##6a#7b#8c#9d#0e  #f# -> Produtor printou
+
+g#  h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#zb c1d23e4f5g6h7i8  9  j0kl -> Produtor printou
+
+mn  opqrstuvwxyz 1234567890 -> Produtor printou
+
+  
+##
+######  #################################  ##########
+################f##g##h#fi#gjhi#kj
+#lk##ml##nm##on##po#p#q#r##qs##rt##su##tv##uw##vwxxy#yzz#  #11#22#33#44#55#667#78#89#90h0i -> Produtor printou
+
+j -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:k
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: A l A mnopqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: A  B # B ######################hijklmn C op C  B qrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: A  D  C  D  B 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: D  E 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: E  C  E  F  F 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: D  G 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: F  G  H  H 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: G  E 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: I 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: I  H  F  J  J 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: I 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: G  K  K  J  L  H  L 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: M  K  N  I 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: M  O  L  P  J  N  Q  M  R  K  O 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: N 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: S  L  P  T 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: O 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U  M  V 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Q  P  W 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: N  X  R  Q  Y  O  S  Z 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: R  P  T 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: S     T  Q 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: U  a 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: b  U 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R  V  S  c  V  W  T 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: d  W 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: X  X  U  e  Y 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Y  Z 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: V  f    
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Z  g  W  a     h  X 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: b  a  i  Y  b  c 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: j 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: c  Z 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: d  k    
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: d  e  l  a 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: e  f  m  b  f  g 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: n 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: c 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: g  h  o  d  h 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: i  p  e  i 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: j  q  f  j  k 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: r 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: g 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: k 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: l  s  h  l  m  t  i  m  n  u  j  n  o 
+ABCDEFGHIJKLMNOP
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:Q v RSTUVW
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:X o Y p Z 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:a k bcdefghijklmnop w q
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:r q stuvw#### l # p ########## -> Consumidor printou
+
+ x  r  m  q  n  r  y 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: s  s  o 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: z  t  t 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: p  q     u  u  r  1 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: v 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: v  s  2  w  w 
+ABCDE
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:F t GHIJK
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:L 3 MN
+OA
+
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:PBCA x QDB
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:REC x SF u DTGE y UH
+FV 4 IAGW v JBHXKCIY y Z LabD z JM 5 Kc w NEdOeLPFfMQGgNRHh z OST
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:IiPU x JjQVKkRWLlSXMmTYNnUZOoV PpWaQq   XbRrYc y SsZtdT ueUavfVbwgWcxhXdyiez
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:f j 1 g1kh z 2   li3mj4Ynk5o#Zlp# mq#a#nrb#osc#pt 2 d -> Consumidor printou
+
+qu
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:erv   fswgtxhuyivzjw kx1 3  1 ly2mz3n 4o15p2#q3#r4#s5#t##u##v# -> Consumidor printou
+
+w# 4 x
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:#y 2 #z -> Consumidor printou
+
+ 12345###### -> Consumidor printou
+
+ 1  3  5  6 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 2  4 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 6  5 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 7  7  6  3 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 8  8 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 9 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 7  4  9  0  8    5 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 0  9    6      7 
+ 0 ############MNOPQ  
+R#S# 8 T#U#V#W#X##Y#Z# #a##bNcOdPeQfRg  hiSjk
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:TlU 9 mVnWoXpYqrZst
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: u
+ 0 av#bw#cx#d  y#ezf# g#1h#2i#3j#4k#5l#6m#n7#o8#p9#q0#r#  s -> Produtor printou
+
+RtS  uTvUwVxWyXzY Z1 2a3b4c5d6e7f8g9h0i
+j -> Produtor printou
+
+#k
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#l A 
+#mA#n###o##p##q##r##s##t##u##v##w##x##y
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:##z B ## ##1##2##3##4V#5W#6XV7YW8ZX9 Y0aZb -> Produtor printou
+
+ c C a
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:db B ecfdgehfigjhkiljmknlompnqorpsqtr D usv C twuxvywzx y1z2 31425364758
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:69 E  D 7089 -> Produtor printou
+
+0
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: E  -> Produtor printou
+
+
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: E  F  E  F  F 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: G 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: F  G 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: H  G  G  H  H 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: I 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: H  J  I 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: K  L  I  I  J  J  M 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: J 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: K  K 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: N  K 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: L  L  O  L  M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: M  P  M  N  N  Q  N  O  R 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: P 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: O 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Q  O 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: S  R 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: P 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: P  Q  T  S  Q 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: T  U  R  S  U  V 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: S  T  V  W  T  U  W  X 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: U  V 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: X 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Y  V  W  Y  Z  W  X  Z     Y  X     a 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: Z 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: Y  b  a     Z  b 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: c  a     c 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: d  b  a  d  e 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: c  b  e 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: f  d  c 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: f  g  d  e 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: g  h  e  f  h  i 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: g 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: f 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: i  j  h  g  j 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k  i  h  k 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: l  j 
+ABCD i EFGH l IJKLMNOPQR m STUVWX j  n Y
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:Z k  a m b
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:c
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: k d o efghijklmn l o##### l # p ##
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: m # n ############## -> Consumidor printou
+
+ n  m  q 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: o  o  r  n  p  s 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: p 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: o  q 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: q  t 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: r  p 
+AB r C
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:D u EF q G
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:HI s JKLMNOPQR t STUVW r  s X u  v YZ abcdefghijk s 
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:lA
+A v mBAB t nCBCoD
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:CDpE w DEqFrEFGsHF
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:G t 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:t u IuvGJwHKH x  w #LI#MJI#NKJ#OLK#P
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:ML#Q
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: u NO#R v P x #S y QM#TRN v O#P z U#Q#SRV#S w TW y #UX#TVYU -> Consumidor printou
+
+W w ZXYV Za    W x baXcbdY z ceZdf egafhbgichj
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:d y i
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 1 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:j
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:   kk x lelmfmngnohopipqjqrkrs z slt 2 tu 1 uvv y m
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:wwn 3 xxoyypzzq  r11s 4 2
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:23   
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:34t 5 #uv 2 #w#4x#y
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:#5z 6  z ##  1 ##1 -> Consumidor printou
+
+#2#3#4#5 -> Consumidor printou
+
+6 3 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:#   #### -> Consumidor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 1  7  2  4 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 2  8  3  5  3  9  4  6  4 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 0 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 5 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 7  5    6  8 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 6   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 7 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 9  7 
+##### 8 ######### 0 #####TU 8 VWXYZ a 9 bcdefghi  jklmnopqr 9 stuvwxyz 1 0 234567890   -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: A 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 0   
+A### B ####  ####  #############Z abcdefgh C i  jk
+lAmBnCo#p#q#r#s#t#u#v#w#x#y#z# #1#2#3# D 4
+#5A#6B#7C#8D#9##0#### -> Produtor printou
+
+ab
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:#c A #d#e#f
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:#g E #h#i#j#k#l#m#n#o#p#q#r#s#t B #u#v#w#xc F y C dze f1g2h3i4j5k6l7 D m8n9o0pq -> Produtor printou
+
+r
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:s E tuv G wxyz 123456
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:7 E 890 -> Produtor printou
+
+ F 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: E  H  F 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: G  F  I 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: J  G  K  L  H  G  M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: H  N  I 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: H  I 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: O  J  K  I 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: J  P 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: L  M 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: J  K  Q  N  K  L 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: R  O  L  M  S  P  M 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: N 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: T 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Q  N  O  U 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: O  R  P 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: V  P  Q  S  Q  W 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: R  T  R  X  S  T  U 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: S  V 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Y 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: W  U  T 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: Z 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: X 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: V  U     Y  W  V 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: a 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: Z  X  W  b    
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: Y 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: X  Z  c  a     Y 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: a  d  b  b  c 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: Z  e  c 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: d     e 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: f 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: d  a 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: g  f 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: e  g  b  f  h  h 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: c  i 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: g  j 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: i  d  k  h  j  l  e 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: m  i  k  n  f 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: j  o  l 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: g  h  k  p  m 
+
+A
+
+ABAABBBCCCCD i EF q GHDI
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:D j EJD n EF
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:FEG l GFHHKGIILHJMI r KJNJLKOKMLPLNM
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:Q
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:MON s  k N
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:PO o O m QPRPRQSQSRTRTSUSUTVTVUWUWX
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:XVY p YWZZ t X V Ya n aWZ l bbX ccYaddZbee cffadggb q ehhc u fiidgjjehk m kfillg o h r jmmikn
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:njlo v okmpplnqq
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:mr n osnr w p s tuqvw p r#os#spt#tq o ru#us x v#vtw#w t ux#xv###
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:w### q x## p ##############
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:#########
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: y  -> Consumidor printou
+
+####
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:### r ##### q ##### u  -> Consumidor printou
+
+ -> Consumidor printou
+
+## -> Consumidor printou
+
+ z 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: v  s  r 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres:    s  1 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: w  t  x  t  2  y 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: u  u  3  z  v 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: v  4    
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: w  w  5  x 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 1  x  6  y 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 2  y  7 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: z  3  z 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 8    
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 4  9     1 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 1  5  0 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 2 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres:
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 2  3  6    4  3  7   
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 5 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 8  4 
+############### 5 #####UVWXYZ abcdef 6 ghi
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:jk 9 lm 6 nopqrstuvwxyz 1234567890 -> Produtor printou
+
+
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: 7  9  7 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: 0  8  0 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: 8     
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: 9  9     
+ 0 #### 0 #################
+#  ######### #a#  b#c#d#e#f#g##h#i#j#k#l#m#n#o  #p#q#r#s#t#u#vb  wcxdyezf gh1i2j3kl4m5n
+6o#7p#8q#9r#0#s#t#
+ -> Produtor printou
+
+u##v#
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:#w# A #x##y##z# ##1##2##3##4##5##6##7##8##9##0#### -> Produtor printou
+
+
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres:##
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: B ## B ###########f#g#h#i#j#k#l#mfngohpiqjrk C sl C tmunvowpxqyrzs t1u2v3w4x5y6z7 8192034 -> Produtor printou
+
+5
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres:6 D  D  B 7890 -> Produtor printou
+
+
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: B 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: E 
+Sou o filho Nº 4, PID 38797 e produzi os seguintes caracteres: E 
+Sou o filho Nº 3, PID 38796 e produzi os seguintes caracteres: C  C  F  F  D 
+Sou o filho Nº 1, PID 38794 e produzi os seguintes caracteres: D 
+Sou o filho Nº 2, PID 38795 e produzi os seguintes caracteres: G  G  E  E [rckmath@rck-manj Parte 2]$ 
